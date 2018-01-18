@@ -1,0 +1,10 @@
+Composer-Setup
+Git-2.13.3-64-bit
+GitHubDesktopSetup
+pgModeler - https://www.pgmodeler.com.br/download
+Postgresql
+
+
+
+-------
+Documentação Laravel
